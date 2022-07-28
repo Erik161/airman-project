@@ -118,7 +118,7 @@ Airman Project es un e-commerce totalmente funcional del lado Front-End construi
   </tr>
     <td>
       <a href="https://github.com/Erik161" target="_blank">
-        <img width="150" height="150" src="https://cdn.discordapp.com/attachments/938468548160933898/1001194167046774866/foto_1.png">
+        <img width="150" height="150" src="https://cdn.discordapp.com/attachments/910733170637410345/1002056527135395941/fotoperfilredondo.png">
         <p align="center"><strong>ERIK HERNÁNDEZ</strong></p>
       </a>
     </td>
